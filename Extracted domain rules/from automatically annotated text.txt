@@ -1,0 +1,427 @@
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/504ae1e3-2954-319c-8c71-700c9cf77d1e.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- all modalities of sensory responsiveness ==> +/- diltiazem on pH-induced nociceptor excitation ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/505bf8ba-668a-345c-a455-ee0f3a5ea2cb.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ Cl  ~~>  ++ membrane inward current ]
+2:  [ ++ the butyrate-induced Cl  ~~>  +/- butyrate ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/50653d9d-07f0-3c92-9137-43e3de6d15cd.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ the rate of the tooth's remineralization and replacement relative to the tooth's rate of demineralization ==> ++ dental decay ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/506bbeb1-1907-3ed2-b401-ad484f5374c8.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ lupin and whea ==> ++ organic matte ]
+2:  [ ++ lupin and whea ==> ++ lupin roots to soil ]
+3:  [ ++ lupin roots to soil ==> ++ pH soi ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/508b2466-9681-3fec-b105-9f26f2264725.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ absorption in water ==> -- these complications ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/508e48b3-1724-3e5c-a8c5-d98a9ee022e8.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- hyperemic ==> +/- Transient ]
+2:  [ +/- the release of 10 second compression of the ipsilateral common carotid artery ==> +/- hyperemic ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/50913661-5386-36e0-959f-cc5e9a0245c8.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- sed ero ==> ++ ced C inputs by cover crops and decreased ero ]
+2:  [ -- of ero ==> -- of erosion r ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/509d1780-4955-372f-bafa-3b227859e92a.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ Alternatively ==> ++ Equatorial ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/509f4851-ad07-3cd6-af8e-836ee246a90a.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- None  ~~>  -- Egg-to-adult survival ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/50a5acaa-8fc4-3772-ba54-9df274c0eddf.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ CO2 exposure ==> -- p ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/50a67fa1-8cc7-356d-9c57-b3c0d5ee67fe.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ metal ion concentration ==> ++ % adsorption ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/50b81d28-39eb-3413-a763-8662b7cbe09e.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ our error checking ==> -- These values ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/50eca797-ef61-37ef-96cc-5f8188939681.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- the intrinsic rate  ~~>  ++ hyperbolically ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/50ef44ec-c5a8-311d-8223-481a58d2c6bf.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- Ellenberg N  ~~>  +/- Ellenberg R index ]
+2:  [ +/- it ==> +/- Ellenberg N ]
+3:  [ +/- it  ~~>  +/- Ellenberg N ]
+4:  [ -- N deposition ==> +/- it ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/50aae47b-9f10-3f79-ac21-90a2471ed4fa.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ light-absorbing organic matter in the atmosphere  ~~>  ++ C ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/512a1fec-b20c-3150-9d4d-21d61f572957.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ nutrient  ~~>  ++ biomass and primary production ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/512ab56d-124f-3bfa-b0f5-92ae2efd83d7.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- the biostructure and productivity of lakes ==> +/- the loading of allochthonous organic carbon ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/514a9749-03d4-3104-aa9b-d0d3ebc47446.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ the assumed SNR  ~~>  +/- the localization performance ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/5159c4e5-9484-36aa-9ae6-8a26a0ee64e0.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- the CO2 assimilation  ~~>  +/- the quantum efficiency of photosystem II ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/5164409a-8b4b-3d3e-91bd-92ac9cabd8a2.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- C-L ==> -- CMI value ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/517f88d1-5f16-3b07-8487-2e876d8e3dac.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- obligate endosymbiotic zooxanthellae ==> ++ Sea Surface Temperatures ]
+2:  [ ++ Sea Surface Temperatures ==> -- obligate endosymbiotic zooxanthellae ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/519adba4-6116-32d0-8201-9c0715fdbe1b.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ growth ==> +/- YE on EPS production ]
+2:  [ -- temperature ==> ++ EPS production ]
+3:  [ -- temperature ==> ++ EPS production ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/51b4caa9-437f-37f7-82fd-d9980444eb43.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ the sp ==> ++ capacitance ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/51b8583f-f8e9-3978-bcea-d12fbdcc6a99.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- the salt ==> -- of the original formulation ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/51b8f14e-c30f-328d-ac77-a18b84bddc9b.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- membrane fluidity ==> -- the ratio of extracellular to intracellular ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/51d977bd-f166-35bc-ba41-9230ce4b1828.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ youths  ~~>  ++ placebo response rates ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/51e84143-da5c-3b6b-ad07-79dbccaa5657.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ None  ~~>  +/- te that elev ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/51f79ca3-0c9d-386e-9136-b566bfbdef76.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- light intensity ==> +/- to a change in light intensity ]
+2:  [ +/- incident ==> +/- light intensity ]
+3:  [ +/- incident  ~~>  +/- light intensity ]
+4:  [ +/- intercellular CO2 concentration ==> +/- indirect ]
+5:  [ ++ water use efficiencies in the intermediate evolutionary stages  ~~>  ++ the magnitude of the indirect component ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/520d7cc2-db0d-3e98-a5a0-705d8b67420e.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ proximate sinks  ~~>  -- None ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/52130efd-2fa2-305d-9465-5da147348e85.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- and initial slopes of the CO ==> -- m in hydroponic culture ]
+2:  [ ++ CE and Q values  ~~>  ++ A ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/52360cf2-eead-3a80-ac8a-7467f4d81b15.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- eas and lower leaf ==> -- , and t ]
+2:  [ +/- osynthesis ==> -- both +UV-B and +CO2+UV-B trea ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/524cc175-2242-3f91-bd91-e83aa215cc89.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- alkalinity ==> ++ pH ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/52507d5f-0710-3c5d-97af-e193409d8102.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ podzols ==> ++ dissolved\norganic carbon ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/527939c0-d965-3d8d-9b26-29e078e3f183.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- ozone ==> ++ levels of solar radiation ]
+2:  [ ++ the forecast ==> +/- a wider range of eukaryotic organisms ]
+3:  [ +/- a wider range of eukaryotic organisms  ~~>  ++ the forecast ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/529d7643-28e5-3ad9-b261-30baeb903148.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- local heat storage ==> +/- the surface flux ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/52b36685-fa8a-3a36-9106-beb0132912ed.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- pH in the presence of excess substrate  ~~>  -- pH. The mechanism explaining the catalytic behaviour of butyrylcholinesterase at low pH in the presence of excess substrate remains to be elucidated ]
+2:  [ ++ excess substrate  ~~>  -- pH in the presence of excess substrate ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/52c2dfb3-e37a-3c5d-80d3-33838ed16419.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ ventilation  ~~>  +/- ventilatory ]
+2:  [ -- VE  ~~>  ++ the inspired concentration of halothane ]
+3:  [ ++ CO2  ~~>  -- VE ]
+4:  [ -- the slope  ~~>  ++ the inspired concentration of halothane ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/52d50cc4-78a1-3c23-a803-b6ea9e5791a1.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- pH. ==> -- carbonate ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/52d66aea-2634-3e04-843d-90527d717d9c.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ abstraction ==> -- unconfined aquifer in Perth ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/52d6ad36-9a35-3a43-994d-56095fb38531.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- economically important species  ~~>  -- This ]
+2:  [ +/- economically important species  ~~>  -- This ]
+3:  [ ++ NO3-N levels in 1979 ==> ++ phytoplankton levels ]
+4:  [ ++ phytoplankton levels ==> ++ oyster growth rate ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/52e308f2-dd98-3b55-a3e2-959be0eb0305.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ atmospheric CO2 ==> ++ oceanic acidity ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/52ef76b5-20ac-3606-8875-f6ec3a380f7b.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- pH. ==> -- pH. Atomic force imaging of ML1 channels ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/533707ee-7d1b-3f73-8758-e6e8bb7b1bde.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- des, the cyc ==> +/- electr ]
+2:  [ +/- c ==> +/- des, the cyc ]
+3:  [ +/- C ==> +/- s, ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/5338136f-72cb-31d1-9f79-d963fc0d8367.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ cell deat ==> ++ peduncle lengt ]
+2:  [ ++ resulting in withering of fruit ==> ++ cell deat ]
+3:  [ ++ cell deat ==> ++ resulting in withering of fruit ]
+4:  [ ++ resulting in withering of fruit ==> ++ cell deat ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/5362349f-eccd-3a70-baee-2ac4df90e8b6.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ voltage-sensitive Ca2+ channels  ~~>  ++ Cai2+ that ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/53722763-1694-3a4e-ad3d-467e8d7edf6a.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- pH-values in the different areas within ==> +/- hydrochloric acid concentrations ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/5377411b-5f7f-3e75-a1ef-ca2a800be4d8.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ the sedative effect on human cardiovascular functions ==> -- blood pressure fluctuations ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/53b06dac-a380-39c4-b54f-f13761e7da2a.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ plasma membrane depolarizing agents ==> ++ the cAMP level ]
+2:  [ -- pH ==> ++ the cAMP level and an immediate drop ]
+3:  [ -- they ==> ++ the intracellular pH. ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/53d165d0-3b6d-3331-8dbc-5293606efe21.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- insect and disease pressure ==> -- yield ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/53ffcff7-468c-3556-9c07-9ff4550799e2.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ ease in ==> ++ ity ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/540faa09-ffcd-3935-90df-5f515523ada1.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- that irradiance at which a transition from limitation by PEP regeneration rate and RuBP carboxylase activity to limitation by the regeneration rates of both substrates occurs ==> -- irradiances on carbon isotope discrimination ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/542384f8-0196-3a1f-b95e-2b56bd7c28fe.ann
+--------------------------------------------------------------------------------
+
+1:  [ -- None ==> ++ ECL ]
+2:  [ ++ both mineral maturity and mineralization index  ~~>  ++ The 1660/1690 cm ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/5434e8b0-e33e-35a8-86b1-a20391627a02.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- the nanotube transport ==> +/- which ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/54381c40-2e3b-3ef9-87ce-fe38e5c4a917.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ CO2 concentration ==> -- pH values ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/546413d3-32a4-3f56-b33e-422ea6802eef.ann
+--------------------------------------------------------------------------------
+
+1:  [ ++ offshore catches ==> +/- composition of parasite communities ]
+
+
+--------------------------------------------------------------------------------
+/home/elias/master/DevPapers/5489a987-5e7a-3723-9201-434eb826adfa.ann
+--------------------------------------------------------------------------------
+
+1:  [ +/- the phytoplankton community ==> ++ abundances of toxic dinoflagellate species ]
+
+
+
